@@ -34,7 +34,7 @@ Siga os passos abaixo para configurar e rodar o projeto no **VS Code**.
 
 ### 📌 Pré-requisitos  
 Antes de começar, certifique-se de ter instalado:  
-- [Python](https://www.python.org/downloads/) 
+- [Python](https://www.python.org/downloads/) 3.10
 - [VS Code](https://code.visualstudio.com/)   
 - Extensão do Python no VS Code
 ### ❓ O que fazer?
